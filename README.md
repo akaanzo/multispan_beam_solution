@@ -1,5 +1,5 @@
 # Multispan Beam Solution
-Mathematica Notebook on multispan beam solution. 
+Mathematica Notebooks on multispan beam solution. 
 
 *multispan_solution.nb* extracts reaction forces in a continuous simple supported beam.
 
